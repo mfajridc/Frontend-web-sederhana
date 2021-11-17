@@ -1,0 +1,21 @@
+.topnav{
+    text-align: center;
+    background-color: rgb(207, 233, 166);
+    padding: 10px; 
+    margin: 0px 0px 10px 0px;
+    
+}
+
+.article{
+    text-align: center;
+}
+
+body { 
+    background-color: rgb(255, 249, 224);
+    margin: 0;  
+    padding: 10px;   
+     
+}
+header{
+    margin-top: 15px;
+}
